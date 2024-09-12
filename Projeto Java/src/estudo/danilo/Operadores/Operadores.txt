@@ -1,0 +1,39 @@
+Operadores : Símbolos especiais que tem um significado próprio para a linguagem e estão associados a determinadas operações 
+
+Operadores Unários: Esses operadores são aplicados juntamente com um outro operador aritmético. Eles realizam alguns trabalhos básicos como incrementar, decrementar, inverter valores numéricos e boleanos
+
+
+(+) Valor positivo
+(-) Negativo
+(++) unário de incremento
+(--) Unário de decremento 
+(!) operador de negação
+
+
+operador Ternário é uma forma resumida para definir uma condição e escolher por um dentre dois valores 
+
+representado por ?:
+
+Operadores Relacionais:
+
+Os operadores relacionais avaliam a relação entre duas variáveis  ou expressões. Neste caso, mais precisamente, definem se o operando à esquerda é igaul, diferente, menor ou igual, maior ou igual ao da direita, retornando um valor booleano como resultado 
+
+== Verifica se uma variável é IGUAL a outra
+
+!= Verifica se uma variável é DIferente da outra
+
+> verifica se é maior que
+
+< verifica se é menor que
+
+>= maior ou igual
+
+<= menor ou igual 
+
+Operadores Lógicos
+
+Os operadores lógicos representam o recurso que nos permite criar expressões lógicas maiores a partir da junção de duas ou mais expressões
+
+&& Operador lógico "E"
+
+|| Operador lógico "OU"
