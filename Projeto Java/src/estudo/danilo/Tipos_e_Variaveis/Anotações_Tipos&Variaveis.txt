@@ -1,5 +1,0 @@
-Objetivo 
-
-Explorar os tipos de dados númericos inteiros, númericos decimais, lógicos, caracteres e suas aplicabilidades.
-Explicar a diferença entre definição de variáveis constantes.
-

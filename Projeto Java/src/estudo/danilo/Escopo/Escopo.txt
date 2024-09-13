@@ -1,1 +1,0 @@
-Escopo pode ser entendido como o ambiente onde uma variavel pode ser acessada. Em java, o escopo de variaveis vai de acordo como bloco onde ela foi declarada
