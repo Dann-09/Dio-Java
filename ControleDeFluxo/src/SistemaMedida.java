@@ -1,27 +1,27 @@
-import java.util.Scanner;
+// import java.util.Scanner;
 
-public class SistemaMedida {
-    public static void main(String[] args) {
+// public class SistemaMedida {
+//     public static void main(String[] args) {
         
-        Scanner lerTamanho = new Scanner(System.in);
+//         Scanner lerTamanho = new Scanner(System.in);
 
-        System.out.println("Digite um tamanho: ");
+//         System.out.println("Digite um tamanho: ");
 
-        String sigla = lerTamanho.next();
+//         String sigla = lerTamanho.next();
 
-        if (sigla == "p") {
-            System.out.println("Seu tamanho é pequeno");
+//         if (sigla == "p") {
+//             System.out.println("Seu tamanho é pequeno");
 
-        }else if (sigla == "m") {
-            System.out.println("Seu tamanho é médio");
+//         }else if (sigla == "m") {
+//             System.out.println("Seu tamanho é médio");
 
-        }else if (sigla == "g") { 
-            System.out.println("Seu tamanho é grande");
+//         }else if (sigla == "g") { 
+//             System.out.println("Seu tamanho é grande");
             
-        }else 
-        System.out.println("Indefinido");
+//         }else 
+//         System.out.println("Indefinido");
 
-        lerTamanho.close();
-    }
+//         lerTamanho.close();
+//     }
 
-}
+// }
